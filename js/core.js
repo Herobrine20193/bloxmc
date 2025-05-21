@@ -3,10 +3,10 @@ window.onload = function () {
     // GENERAL CONFIGS v0.1
 
     //Site title
-    let title = 'BattleCraft';
+    let title = 'BloxMC';
 
     //Server Ip (counter)
-    var serverIp = 'play.foxcraft.net';
+    var serverIp = 'play.bloxmc.xyz';
     var serverIpPort = 25565;
 
     //Banner image (url) 
@@ -25,12 +25,12 @@ window.onload = function () {
     //--------------------------------------------
 
     //Type Server (FullPVP, MiniGame, Survival, and others...)
-    var typeServer = 'Full PVP';
+    var typeServer = 'Network';
 
     //--------------- Home Gallery ---------------
     // Image automatically changes according to the name :)
     //Firs player nick / comment text
-    var firstPlayerName = 'Dor1toz';
+    var firstPlayerName = 'PlayerName';
     var firstPlayerComment = "The best server, great fun and the team helps whenever I need it!";
     //Second player nick / comment text
     var secondPlayerName = 'Tester';
