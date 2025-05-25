@@ -10,7 +10,7 @@ window.onload = function () {
     var serverIpPort = 25565;
 
     //Banner image (url) 
-    var bannerTop = 'https://i.imgur.com/k0MtSCb.png';
+    var bannerTop = 'https://cdn.discordapp.com/attachments/1224271867364507719/1374778063023505599/images_-_2025-05-21T212638.579.jpg?ex=6833e698&is=68329518&hm=7b8643dce8dd79c836807f632e0e34ff520f148b9ed3cdff3c8bbaf16b6d048b&';
 
     //--------------- Home Gallery ---------------
     //Firs text / image (url)
