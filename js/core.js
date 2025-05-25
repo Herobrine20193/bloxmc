@@ -14,13 +14,13 @@ window.onload = function () {
 
     //--------------- Home Gallery ---------------
     //Firs text / image (url)
-    var text_Gfirst = 'Special Items';
+    var text_Gfirst = 'LifeSteal';
     var image_Gfirst = 'https://cdn.discordapp.com/attachments/1224271867364507719/1374783326241423521/InShot_20250521_214741133.jpg?ex=6833eb7f&is=683299ff&hm=f55e8774164ec53b188ea4d2c82af380624f42bdce1331d83bb938fb2a9783e9&';
     //Second text / image (url)
     var text_Gsecond = 'Economy'
     var image_Gsecond = 'https://i.imgur.com/XU4KHgV.png';
     //Third text / image (url)
-    var text_Gtrird = 'Great Community'
+    var text_Gtrird = 'Active Community'
     var image_Gtrird = 'https://cdn.discordapp.com/attachments/1224271867364507719/1374785651156717728/2025-04-24_15.44.58.png?ex=6833eda9&is=68329c29&hm=e886dba8a2a09077f8975b866ec7cc356028c729382aca9ca73e13144a2e4142&';
     //--------------------------------------------
 
