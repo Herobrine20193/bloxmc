@@ -15,7 +15,7 @@ window.onload = function () {
     //--------------- Home Gallery ---------------
     //Firs text / image (url)
     var text_Gfirst = 'Special Items';
-    var image_Gfirst = 'https://i.imgur.com/OkfQb7q.png';
+    var image_Gfirst = 'https://cdn.discordapp.com/attachments/1224271867364507719/1374783326241423521/InShot_20250521_214741133.jpg?ex=6833eb7f&is=683299ff&hm=f55e8774164ec53b188ea4d2c82af380624f42bdce1331d83bb938fb2a9783e9&';
     //Second text / image (url)
     var text_Gsecond = 'Economy'
     var image_Gsecond = 'https://i.imgur.com/XU4KHgV.png';
