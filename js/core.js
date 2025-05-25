@@ -41,8 +41,6 @@ window.onload = function () {
     //--------------------------------------------
 
     //Social media links / banner (url)
-    var urlFacebook = "https://github.com/Tiagox42";
-    var urlTwiiter = "https://github.com/Tiagox42";
     var urlInstagram = "https://www.instagram.com/bloxmcnet";
     var urlYoutube = "https://www.youtube.com/@BloxMCnet";
     var discordInvite = "https://discord.gg/GE374DYh5M";
