@@ -10,7 +10,7 @@ window.onload = function () {
     var serverIpPort = 25565;
 
     //Banner image (url) 
-    var bannerTop = 'https://cdn.discordapp.com/attachments/1224271867364507719/1374778063358791942/images_-_2025-05-21T212509.119.jpg?ex=6833e698&is=68329518&hm=a9efcf02f75d93ad16146830cff81bff897de1cf1b3eba5087a7a03e6aa331b1&';
+    var bannerTop = 'https://cdn.discordapp.com/attachments/1224271867364507719/1374778063023505599/images_-_2025-05-21T212638.579.jpg?ex=6833e698&is=68329518&hm=7b8643dce8dd79c836807f632e0e34ff520f148b9ed3cdff3c8bbaf16b6d048b&';
 
     //--------------- Home Gallery ---------------
     //Firs text / image (url)
