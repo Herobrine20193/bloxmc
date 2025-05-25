@@ -30,7 +30,7 @@ window.onload = function () {
     //--------------- Home Gallery ---------------
     // Image automatically changes according to the name :)
     //Firs player nick / comment text
-    var firstPlayerName = 'PlayerName';
+    var firstPlayerName = 'ItzmeTejas';
     var firstPlayerComment = "The best server, great fun and the team helps whenever I need it!";
     //Second player nick / comment text
     var secondPlayerName = 'Tester';
@@ -43,9 +43,9 @@ window.onload = function () {
     //Social media links / banner (url)
     var urlFacebook = "https://github.com/Tiagox42";
     var urlTwiiter = "https://github.com/Tiagox42";
-    var urlInstagram = "https://www.instagram.com/tdantas42/";
-    var urlYoutube = "https://www.youtube.com/user/Tg42x/videos";
-    var discordInvite = "https://github.com/Tiagox42";
+    var urlInstagram = "https://www.instagram.com/bloxmcnet";
+    var urlYoutube = "https://www.youtube.com/@BloxMCnet";
+    var discordInvite = "https://discord.gg/GE374DYh5M";
     var bannerSocialImage = "https://i.imgur.com/oSbKvAT.png";
 
 
