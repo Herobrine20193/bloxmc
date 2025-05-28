@@ -15,7 +15,7 @@ window.onload = function () {
     //--------------- Home Gallery ---------------
     //Firs text / image (url)
     var text_Gfirst = 'LifeSteal';
-    var image_Gfirst = 'https://www.servertilt.com/blogimg-94-65105.png?cache';
+    var image_Gfirst = 'img/lifesteal.png';
     //Second text / image (url)
     var text_Gsecond = 'Economy'
     var image_Gsecond = 'https://i.imgur.com/XU4KHgV.png';
