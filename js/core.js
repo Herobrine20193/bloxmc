@@ -10,7 +10,7 @@ window.onload = function () {
     var serverIpPort = 25565;
 
     //Banner image (url) 
-    var bannerTop = 'https://cdn.discordapp.com/attachments/1224271867364507719/1374778063023505599/images_-_2025-05-21T212638.579.jpg?ex=6833e698&is=68329518&hm=7b8643dce8dd79c836807f632e0e34ff520f148b9ed3cdff3c8bbaf16b6d048b&';
+    var bannerTop = 'img/background.png';
 
     //--------------- Home Gallery ---------------
     //Firs text / image (url)
@@ -21,7 +21,7 @@ window.onload = function () {
     var image_Gsecond = 'https://i.imgur.com/XU4KHgV.png';
     //Third text / image (url)
     var text_Gtrird = 'Active Community'
-    var image_Gtrird = 'https://cdn.discordapp.com/attachments/1224271867364507719/1374785651156717728/2025-04-24_15.44.58.png?ex=6833eda9&is=68329c29&hm=e886dba8a2a09077f8975b866ec7cc356028c729382aca9ca73e13144a2e4142&';
+    var image_Gtrird = 'img/community.png';
     //--------------------------------------------
 
     //Type Server (FullPVP, MiniGame, Survival, and others...)
