@@ -10,7 +10,7 @@ window.onload = function () {
     var serverIpPort = 25565;
 
     //Banner image (url) 
-    var bannerTop = 'img/background.png';
+    var bannerTop = 'img/background.jpg';
 
     //--------------- Home Gallery ---------------
     //Firs text / image (url)
