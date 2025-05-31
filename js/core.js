@@ -18,7 +18,7 @@ window.onload = function () {
     var image_Gfirst = 'img/lifesteal.png';
     //Second text / image (url)
     var text_Gsecond = 'Economy'
-    var image_Gsecond = 'https://i.imgur.com/XU4KHgV.png';
+    var image_Gsecond = 'img/economy.png';
     //Third text / image (url)
     var text_Gtrird = 'Active Community'
     var image_Gtrird = 'img/community.png';
